@@ -87,3 +87,6 @@ public abstract class Candidat implements Comparable<Candidat>, Serializable
 		return "\n" + getNom() + " -> inscrit à " + getCompetitions();
 	}
 }
+
+
+Test GitHub
