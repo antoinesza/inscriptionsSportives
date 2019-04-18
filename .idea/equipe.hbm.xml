@@ -1,0 +1,11 @@
+<?xml version="1.0"?><!DOCTYPE hibernate-mapping
+        PUBLIC "-//Hibernate/Hibernate Mapping DTD 2.0//EN"
+        "http://hibernate.sourceforge.net/hibernate-mapping-2.0.dtd"><hibernate-mapping>
+    <class name="equipe" table="equipe">
+
+        <property name="numequipe" type="string" not-null="true" />
+        <property name="nom" type="string" not-null="true" />
+        <property >
+        </property>
+    </class>
+</hibernate-mapping>
